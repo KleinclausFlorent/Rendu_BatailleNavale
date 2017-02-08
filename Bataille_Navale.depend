@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1486572831 source:d:\ludus\2016-2017\algo-c\bataille_navale\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
