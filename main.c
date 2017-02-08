@@ -94,7 +94,7 @@ int main()
     int i;
     int tour,cible;
     int FinPartie;
-    printf("Combien de joueurs ?\n");
+    printf("Combien de joueurs ? (entier superieur ou egale a 2)\n");
     fflush(stdin);
     scanf("%i",&nbrJ);
     Flotte Joueurs[nbrJ];
